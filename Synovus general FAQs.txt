@@ -1,0 +1,150 @@
+General
+1.	What is My Synovus?
+My Synovus is the digital banking experience for personal banking customers. My Synovus can be accessed via a mobile-friendly website and a mobile banking app for Android and iPhone.
+
+2.	Do I need to install special software to use My Synovus?
+No, but the following operating system requirements must be met for My Synovus. For the mobile app: iOS®11 and above or Android™ version 5 and above are supported. For online: The most recent versions of Internet Explorer, Microsoft Edge, Chrome, Firefox, and Safari. Includes any previous versions that are still supported and updated by Microsoft, Google, Mozilla, and Apple, respectively. We recommend using Chrome and Safari for the best online experience.
+
+3.	What type of accounts can I have access to through My Synovus?
+You’ll have access automatically to all consumer accounts for which you are deemed an “owner”. Access is available for checking, money market, savings, loan(s), CD(s), IRA(s) and credit card accounts.
+
+4.	Can I change my mailing address through My Synovus?
+At this time, you can only update your phone number and email address through My Synovus. To update your mailing address, call Customer Care at 1-888-SYNOVUS (1-888-796-6887) or visit your local branch.
+
+5.	Is there an iPad app?
+When Synovus Online Banking/Mobile Banking became My Synovus, we discontinued the iPad-specific app. You can use the mobile-friendly website on your iPad for a seamless experience. The iPhone app can be used on your iPad, but it’s not optimized for the iPad. Use your browser to log in from Synovus.com.
+
+6.	Do you offer Text Banking?
+No. You can use the Instant Balances feature of the app for fast balance info. If you don’t have the app, Telephone Banking is another great option for getting balance information on the go – call 1-888-SYNOVUS (796-6887).
+
+7.	Can I order checks online?
+Customers may order checks at any time by visiting our website, Synovus.com. To order, log in to your Synovus account and select a checking account. Next, click the "Account Details" button and on the next page, click "Order Checks." (Currently, the Synovus mobile app does not offer the ability to order checks.)
+
+8.	How do I stop payments?
+Go to your accounts, select Manage, then select Stop Payment.
+
+9.	For a mortgage loan, how do I request to close my escrow account and is there a cost to me?
+The cost is $250.00 to complete this process. This Fee is only charged if removal meets approved criteria, which can be determined by sending in a written request to Synovus at 800 Shades Creek Parkway, MS130, Birmingham, AL 35209 or by contacting Mortgage Customer Care at 1-800-803-0803.
+________________________________________
+Enrollment
+1.	What information do I have to provide to enroll?
+You’ll need to provide your name, social security number, account number and your birth date in order to enroll in My Synovus. You provided this same information at account opening.
+
+2.	I don’t have access to any of the numbers provided to receive a one-time code passcode. What do I do?
+If you’re having trouble completing the multifactor authentication steps, just give us a call at 1-888-SYNOVUS (796-6887) for assistance.
+
+3.	Where do I go to enroll in My Synovus?
+Enroll now by visiting Synovus.com and selecting Enroll under the login box, or download the mobile app and tap enroll.
+
+4.	Do I need to have a mobile phone number on file to complete the verification process?
+No, a mobile number is not required. However, we recommend the phone number you select be easily accessible, especially if you log in to My Synovus from multiple devices. You may select a land line to complete the verification process, but you must have access to the number to receive your one-time passcode.
+
+5.	Can I use a land line to complete the verification process?
+Yes, you can use a landline, but you must be in close proximity to the phone you’ve selected to receive the one-time passcode in a timely manner.
+
+6.	All of the phone numbers I have on file are outdated. What do I need to do?
+You’ll need to contact Customer Care at 1-888-796-6887 to update your record with current phone numbers.
+________________________________________
+Security
+1.	Is My Synovus secure?
+My Synovus uses two-step authentication process to keep your accounts secure. This means we use multiple layers of security to verify your identity and protect your accounts beyond your username and password.
+
+2.	Can I change my username through My Synovus?
+Yes. Go to Settings: My Security. You must have your current username and password in order to change your username. Keep in mind, if you change your username, your old username will no longer be valid and can’t be used again in the future.
+
+3.	Can I change how I receive the verification code for one-time passcode? (Change from a phone call to a text message.)
+Yes. To change how you receive your verification codes for your one-time passcode you’ll need to perform a one-time passcode reset. Go to Settings: My Security. Once you initiate the reset, you will be prompted on your next login to select how you would like to receive your authentication codes. At that point, you may select SMS or Voice Call. You can add additional phone numbers or change the phone numbers available by calling Customer Care at 1-888-SYNOVUS (1-888-796-6887) or visiting Settings: My Profile.
+
+4.	Can I change my password?
+Yes. You must have your current login credentials in order to change your password. Go to Settings: My Security and select change password, change username, or change security question.
+
+5.	I upgraded (lost) my mobile phone. How do I remove my old device so people can’t access my account information?
+To view, manage or remove any devices associated with mobile banking, go to Settings: My Mobile.
+
+6.	Will my account numbers be displayed in their entirety?
+No. For added security, your account numbers will be masked with an asterisk (*) up to the last four digits. Loan accounts will display eight digits, the last four are the note number of the loan and the first four are the last four digits of the actual loan number.
+Examples:
+Checking = ******1567
+Loans = *******12350001
+
+7.	What can I do to protect my account?
+Good security starts at home, at the office or wherever you access your account. We suggest that you:
+o	Create longer passwords that use a combination of letters and numbers. Avoid using family member or pet names, birthdates and phone numbers.
+o	Never write down or share your password. The same holds true for your security questions and answers.
+o	Change passwords regularly. Do not alternate between the same passwords.
+o	When you log in to My Synovus you’re in a secure session. Make sure by looking for a padlock symbol on the lower right-hand corner of your browser or by looking at the web address – it should start with https://.
+o	Only use My Synovus on computers with up-to-date anti-virus and anti-spam software. Install a personal firewall, especially if you use a broadband connection.
+o	Sign off from My Synovus if you must step away from your computer or you have completed your tasks.
+o	Be wary of correspondence that asks you to disclose your password or account detail. Remember, we will never ask you to provide private information by email.
+
+________________________________________
+Statements
+1.	Can I view my statements online?
+Yes. You’ll be able to view up to 24 months of checking, money market and savings account statements. In addition, you may also enroll in paperless statement delivery to stop receiving paper statements in the mail. Your statement will be presented to you as a searchable webpage or in PDF format, which can be opened with Adobe Reader software. Download a free version of Adobe Reader.
+
+2.	How can I see my statement options for my accounts?
+Navigate to Settings: My Accounts to view and manage all your account statement options.
+
+3.	Can I access my loan statements through My Synovus?
+At this time, we don’t offer access to loan statements through My Synovus. To inquire about current loans, call Customer Care at 1-888-SYNOVUS (1-888-796-6887) or visit your local branch.
+
+________________________________________
+Payments & Transfers
+1.	Can I pay bills through My Synovus? Where can I find Bill Pay?
+Yes, you can send payments in the Payments tab.
+
+2.	Can I send person-to-person payments?
+Yes. You can send money to friends, family, and the babysitter with Popmoney®. Just enroll online or from your phone and start paying people online. Go to the Payments & Transfers tab to get started.
+
+3.	Can I transfer funds between my Synovus accounts?
+Yes, you can make one-time transfers using the Quick Transfer option or visit the Transfers section to schedule and manage transfers.
+
+4.	Can I transfer to and from accounts at other financial institutions?
+Yes. You can send money to and from your accounts at other financial institutions with External Transfers. Go to the Transfers section to get started.
+________________________________________
+Alerts & Messages
+1.	Where do I go to enroll in alerts?
+To enroll in alerts, go to Settings: My Alerts and select Add Alert from the drop-down menu.
+
+2.	How can I get My Synovus text alerts?
+If you’d like to receive My Synovus text alerts, share your mobile number with us in Settings: My Profile. Update your contact information with your number and check SMS to enable text alerts. After saving, you’ll see your mobile phone number as an option when setting up alerts. You’ll also have this number as an option to receive your one-time passcode when logging in from an unknown device.
+
+3.	How long before I receive a response to a secure message I sent?
+A secure message response may take up to 24 hours. If your request is urgent, please call us at 1-888-SYNOVUS (1-888-796-6887).
+
+4.	How do I reach customer care through My Synovus?
+You can send customer care a secure message through My Synovus by tapping on the envelope icon in the top right corner of the Accounts page.
+
+5.	Can I see my recent Alerts in My Synovus?
+Yes, when you have an alert a dot will appear on the Profile icon. Tap on the icon then select Alerts.
+________________________________________
+Alerts & Messages
+1.	Where do I go to enroll in alerts?
+To enroll in alerts, go to Settings: My Alerts and select Add Alert from the drop-down menu.
+
+2.	How can I get My Synovus text alerts?
+If you’d like to receive My Synovus text alerts, share your mobile number with us in Settings: My Profile. Update your contact information with your number and check SMS to enable text alerts. After saving, you’ll see your mobile phone number as an option when setting up alerts. You’ll also have this number as an option to receive your one-time passcode when logging in from an unknown device.
+
+3.	How long before I receive a response to a secure message I sent?
+A secure message response may take up to 24 hours. If your request is urgent, please call us at 1-888-SYNOVUS (1-888-796-6887).
+
+4.	How do I reach customer care through My Synovus?
+You can send customer care a secure message through My Synovus by tapping on the envelope icon in the top right corner of the Accounts page.
+
+5.	Can I see my recent Alerts in My Synovus?
+Yes, when you have an alert a dot will appear on the Profile icon. Tap on the icon then select Alerts.
+________________________________________
+Apple Watch
+1.	How do I get My Synovus app on my Apple Watch?
+You must first have downloaded My Synovus on your iPhone. Once downloaded, you can navigate to your Apple Watch app located in your iPhone to manage your apps.
+
+2.	Can I get My Synovus for my Android Watch?
+At this time, My Synovus mobile app is not compatible with the Android Watch. Check back for updates.
+
+3.	My Apple Watch isn’t working what do I do?
+Unfortunately, we are unable to provide technical support for your Apple Watch. Please try contacting Apple Support for technical support.
+
+________________________________________
+ 
+Still having issues? Looking for information about something else? Call Customer Care 1-888-SYNOVUS (796-6887) for assistance.
+

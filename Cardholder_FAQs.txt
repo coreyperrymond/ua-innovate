@@ -1,0 +1,288 @@
+Enrollment Information – Personal Cardholders:
+How do I enroll to see my personal credit card information online?
+Visit synovus.com and select “Enroll” on the "Manage Your Account” box for My Synovus. The site will collect your credit card account information and lead you through setting up your username and password. Quick tip: Make sure we have up-to-date contact information on ﬁle (home, work, mobile phone numbers) for your account or you could run into delays completing the enrollment and login processes.
+For additional information, watch the My Synovus enrollment video.
+What information do I need to provide to enroll in My Synovus to manage my personal credit card?
+You will need to provide your name, Social Security Number, account number and your birth date in order to enroll in My Synovus. If you are having trouble enrolling, call 1-888-SYNOVUS (796-6887) and say “Online and Mobile Banking” and select “Other” to speak to a Customer Service representative for help.
+How do I login to manage my personal credit card information online once I have enrolled?
+Visit synovus.com and enter your username and password credentials into the "Manage Your Account" box for My Synovus. Select the “Manage” button to see your Account Summary page. To manage your rewards, select the arrow on the blue Available Rewards Balance box.
+Do I need to have a mobile phone number on file to complete the verification process?
+No, a mobile number is not required, you can use a landline but you must be in close proximity to the phone you’ve selected to receive the one-time passcode in a timely manner.
+My Synovus is asking to send a code to my phone, but the contact number is not correct. What do I need to do?
+Call 1-888-SYNOVUS (796-6887) and say “Online and Mobile Banking” and select “Enroll” to speak to a Customer Service representative to update your phone number on ﬁle.
+Do I need to download an app?
+You can download the My Synovus app if you prefer a mobile app1 to logging in online.
+ 
+Username and Password Requirements – Personal Cardholders:
+Can I change my username through My Synovus?
+Yes, go to My Synovus Settings: My Security. You must have your current username and password in order to change your username. Keep in mind, if you change your username, your old username will no longer be valid and can’t be used again in the future.
+Are there rules for creating a username?
+Your username must be between 8 and 19 characters. You must use at least one letter and one number. Avoid repeating the same character more than two times in a row or using more than 8 numbers. Your username is not case sensitive. Do not use your social security number. If you change your username, your previous one can’t be reused.
+Can I change my password?
+Yes. You must have your current login credentials in order to change your password. Go to My Synovus Settings: My Security and select change password, change username, or change security question.
+Are there rules for creating a password?
+Your password must be at least 9 characters with no spaces and include 3 of the following uppercase letter, lowercase letter, number, or special character. Examples of special characters include – !, ?, (, ), ; or @. Your password can’t match your username, and please don’t repeat the last 10 passwords.
+Can I change how I receive the verification code for a one-time passcode? (Change from a phone call to a text message)
+Yes, to change how you receive your verification codes for your one-time passcode, you’ll need to perform a one-time passcode reset. Go to My Synovus Settings: My Security. Once you initiate the reset, you will be prompted on your next login to select how you would like to receive your authentication codes. At that point, you may select SMS or Voice Call. You can add additional phone numbers or change the phone numbers available by calling Customer Service at 1-888-796-6887 or visiting My Synovus Settings: My Profile.
+General Online Management for Personal and Business Cardholders
+What are some benefits of managing my account online?
+It allows you to manage your credit card account more efficiently, on your own schedule. You can view account information, receive and view statements electronically; monitor current and recent transaction information, make payments, manage spending limits, lock and unlock cards, set up balance and payment alerts, and update your account profile information.
+What details will I find using the Transactions History feature?
+This feature allows you to review up to 24 months of transactions posted to your account including the date, amount and description of the transaction. You can review all transactions that appeared on your last statement as well as transactions that have posted to your account since your last statement.
+What types of transactions should I expect to see on the Transaction History page?
+You will see any purchases, authorizations, payments, fees, cash advances, token transactions such as mobile wallet authorizations, pre-authentications and other types of transactions. If you see a transaction that looks suspicious or unfamiliar please call 1-888-SYNOVUS (796-6887).
+How current can I expect my account information to be?
+Your current balance is as of the end of the most recent business day. Business days are considered Monday through Friday. However, your available credit balance will reflect pending transactions.
+We do not process on Christmas and New Year’s Day.
+How do I dispute transactions?
+At this time, please contact Customer Service at 1-888-SYNOVUS (796-6887) to dispute transactions. The ability to dispute transactions online will be added to our digital experience soon.
+Where do I view my credit and cash limits?
+If you are a personal cardholder you can find your credit and cash limits for your card in several places:
+•	Login to My Synovus and click the “Manage” button on the credit card page to go to the Account Summary page. Your credit limit is displayed in the Available Credit bar below your balance. If you have multiple personal accounts, you can “Switch Accounts” to see that information on your other account(s).
+•	Your cash limit is available on your monthly statement, which can be accessed online and on the mailer that accompanied your card.
+Business credit cardholders can locate credit and cash limits for all their cards:
+•	Log in through synovus.com. Your credit limit is displayed in the Available Credit bar below your balance on the Account Summary page.
+•	The cash and credit limits for each of your employee cards is available on the Manage Employee Cards page. Just click on the card you’d like to see the limits for.
+•	Your cash limit is available on your monthly statement, which can be accessed online and on the mailer that accompanied your card.
+Can I lock or unlock my cards?
+Personal cardholders: Yes, you can lock or unlock your card online by selecting “Lock Card” from the “I want to…” drop down menu. You can lock or unlock multiple cards by using the “Switch Account” option that allows you to move between accounts. You can also lock and unlock your authorized user cards.
+Business cardholders: Yes, you can lock or unlock your card online by selecting “Lock Card” from the “I want to…” drop down menu. You can also lock and unlock authorized user cards by going to the Manage Employee Cards page and selecting the employee card you would like to lock or unlock. Note: The “Lock” option changes to “Unlock Card” when the card is locked.
+How do I activate my card?
+To activate your card, please log in and select “Activate Card” from the link below the “I want to...” drop down menu on the Account Summary page. Cards must be activated one at a time.  Please note that you cannot activate authorized user or employee cards online.
+How do I create and manage my personal identification number (PIN)?
+When your card is activated for the first time, you will be prompted to establish a PIN. To change your PIN at a later date, log in and select “Manage PIN” from the “I want to...” drop down menu. 
+I am going on vacation, how do I set a travel notice on my account?
+Personal cardholders
+•	Log in to My Synovus and select the "Manage" button next to your credit card account. On your Account Summary page, select “Set Travel Alert” from the “I want to...” drop down menu to set a travel alert.
+•	For vacations longer than 30 days in duration, please call 1-888-SYNOVUS (796-6887) and say “Credit Card” to speak to a Customer Service representative and request to set a travel notification.
+Business cardholders
+•	Log in through synovus.com and select “Set Travel Alert” from the “I want to…” drop down menu on your Account Summary page to request a new card.
+•	For vacations longer than 30 days in duration, please call 1-888-SYNOVUS (796-6887) and say “Small Business Credit Card” to speak to an agent and set a travel notification.
+Where can I request a new card?
+Personal cardholders
+•	Log in to My Synovus and select the "Manage" button next to your credit card account. On the Account Summary page, select “Request New Card” from the “I want to …” drop down list.
+•	Or, call 1-888-SYNOVUS (796-6887) and say “Personal Credit Card” to speak to a Customer Service representative.
+Business cardholders
+•	Log in through synovus.com. On the Account Summary page, select “Request New Card” from the “I want to…” drop down list.
+•	Or, call 1-888-SYNOVUS (796-6887) and say “Small Business Credit Card” to speak to a Customer Service representative.
+Can I download transactions on my online account?
+Yes, you can download transactions in different formats to use with tools like Quicken® and Quickbooks® in the following formats: Comma Separated File (CSV), Quicken Financial Exchange File (QBO), Quickbooks (QFX), and Open Financial Exchange File (OFX).
+How do I connect my credit card with account aggregators? (e.g. Mint/Intuit, Emoney, Fidelity, Yodlee, Savvis)
+Personal cardholders: Update any third-party aggregator sites you use with the My Synovus URL and your credentials.
+Business cardholders: Connections to third party aggregators are currently unavailable. Depending on the site you use, you may be able to download transactions from the site and upload them to your aggregator of choice (see Downloading information: Quicken®, Quickbooks®, etc. above).
+Online Account Management
+Enrollment Information – Business Cardholders:
+How do I enroll to manage my business credit card and rewards?
+Go to Synovus.com and look for the red box titled "Manage Your Account". Change the drop down to “Business Credit Card”. A new tab will open in your browser. Select the enroll button and enter your card number, zip code, last four digits of your Social Security Number (SSN) and your name to create an online account. After your username and password are created, you will be asked to enter a verification code to access your account.
+Do I need to enter enrollment information each time I login?
+No, after you enroll you will only need to enter your username and password to login to manage your business credit card and rewards.
+How do I login to manage my business credit card if I have already enrolled?
+Go to synovus.com and look for the red box titled "Manage Your Account". Change the drop down to “Business Credit Card”. A new tab will open in your browser where you will enter your username and password. You will be asked to enter a verification code when you are logging in from a new device.
+Why is the site asking to send a verification code to my email address?
+We will send a veriﬁcation code to the email address on ﬁle as an added layer of security to prevent unauthorized access to your account (often referred to as multi-factor authentication). This will happen every time you log in to the site using a new device (computer, tablet, smart phone). The new platform will remember the device automatically. However, please be aware that this security feature re-sets every 90 days. You will be asked to complete this step for each device every 90 days.
+What do I do if the email address is incorrect?
+Call 1-888-SYNOVUS (796-6887), say “Credit Card”, then select “Account Information” to update your contact information.
+ 
+Username and Password Information – Business Cardholders:
+What are the password requirements for my online account?
+•	Passwords must contain between 8 and 20 characters.
+•	You cannot repeat use of your last 6 passwords.
+•	Must include at least 1 number and 1 letter (passwords are case sensitive).
+•	May include 1 or more of the following special characters – ! , @, %, ^, &, *, (, ), =, +, /, ?
+What should I do if I forgot my username or my password?
+Select “Forgot Password/Username” and enter the information you used to enroll your card.
+Will my password ever expire?
+No, your password will never expire. You can set up a new password by selecting “View Profile” from the upper left-hand menu to edit the password on your account.
+ 
+Account Information – Business Cardholders:
+Do I need to download an app?
+Business cardholders do not need to download an app. The site is mobile-friendly and can be accessed from virtually any device.
+If I have multiple business accounts, how can I manage them under one profile?
+When you are logged in to one of your accounts, select the credit card icon in the upper righthand corner to add accounts and enable switch account functionality. Once you add your other accounts, select the credit card icon in the upper righthand corner to seamlessly switch between your accounts in one online session. If you do not see one of your accounts or you wish to merge two of your online account logins, please contact Customer Service at 1-888-SYNOVUS (796-6887) and say “Credit Card”.
+Terms Information for Personal and Business Cardholders
+What types of transactions have different terms on my card?
+See below for a summary of transaction types and the terms that apply to each transaction type. To find out more information on your credit card terms see your Cardholder Agreement
+Transaction Type	Grace
+Period	No Grace
+Period	Purchase
+APR2
+Cash
+APR	Intro
+Rate	Promo
+APR
+Purchase	grace period is applied to purchase transactions		purchase APR is applied to purchase transactions		intro rate is applied to purchase transactions	
+Balance Transfer	grace period is applied to balance transfer transactions		purchase APR is applied to balance transfer transactions		intro rate is applied to balance transfer transactions	
+Overdraft Protection	grace period is applied to overdraft protection transactions		purchase APR is applied to overdraft protection transactions		intro rate is applied to overdraft protection transactions	
+Cash Advance		no grace period is applied to cash advance transactions		cash APR is applied to cash advance transactions		
+Promotional Check		no grace period is applied to promotional check transactions	purchase APR is applied to promotional check transactions			
+Expired Promotional Check		no grace period is applied to expired promotional check transactions		cash APR is applied to expired promotional check transactions		
+Convenience Check		no grace period is applied to convenience check transactions		cash APR is applied to convenience check transactions		
+Promotional Check/Balance Transfer		no grace period is applied to promotional check/balance transfer transactions	purchase APR is applied to promotional check/balance transfer transactions			promo APR is applied to promotional check/balance transfer transactions
+How can I receive a copy of my current terms on my account?
+To request online, login to your online account and go to the Account Summary page. Click “Request Form” on the I want to drop down menu. Once on the Request Form page, select the Summary of Terms. You can also call 1-888-SYNOVUS (1-888-796-6887) and say credit card to speak to a Customer Service representative and request a copy of the terms to be mailed to you.
+Payment Information for Personal and Business Cardholders
+How can I set up my account to pay my credit card bill online?
+1.	From your Account Summary page select Make a Payment.
+2.	Click on the arrow alongside Minimum Due.
+3.	Select Add Payor Account.
+4.	Enter the “the account title, (nickname for the payment account), the routing number, checking/savings account number and the payment account type, and click Submit. This will transfer you back to the Make a Payment page where you can make your payment.
+Note: You can set up an unlimited number of payors.
+How can I make my payment online?
+1.	From your My Account page select Make A Payment
+2.	Click on the arrow alongside Minimum Due
+3.	Select the account you’d like to pay from, and select or enter the payment amount and the payment date and click Continue
+4.	You will be asked to review and confirm the payment details before submitting your payment for processing
+If you enter today’s date as the payment date, you must submit your request by 5:00 p.m. Eastern Time.
+What accounts can be used for payment?
+Payments must be made in U.S. dollars, through a checking or savings account opened at a U.S. bank that allows electronic withdrawals.
+Will I receive a confirmation for my online payment?
+When you make a payment, you will receive a confirmation message. You will also receive an email confirmation of your online payment to the e-mail address on file. Your online payment will appear as a withdrawal on your monthly bank statement, and as a credit on your monthly credit card billing statement.
+Can I make changes/cancel a payment once the request has been scheduled?
+Yes, you can make changes to any payment in an open status. Go to your My Account page and click on Manage Payments in the upper left-hand menu. The page will list your scheduled (pending) online payments that you can either edit or cancel. Just click on the vertical ellipsis under the payment amount to make your changes.
+What will happen if I arrange for a payment to be withdrawn from my account, but my account does not have sufficient funds?
+Your bank may choose to return the item and/or charge you a Non-Sufficient Funds (NSF) fee. If the item is returned to us, we will reverse the payment from your account. Your account may be assessed late fees and interest charges according to the terms of your Credit Card Agreement.
+How often can I make a payment on my account?
+You cannot schedule a payment within 2 days of your last payment made. For example, if you made a payment on April 4, the next payment can be made on April 7. The system will not allow a payment to be made online any earlier.
+What is the maximum number of days in the future that a payment can be scheduled?
+Payments can be scheduled a maximum of 90 days in advance.
+Can I make a payment greater than my balance?
+No, you can only make a payment up to your balance.
+Managing Authorized User and Employee Cards
+Can I add authorized users online?
+Yes, you can add employees or authorized users online. You no longer need to speak with a banker or Customer Service representative to add an authorized user.
+Personal cardholders can add one joint applicant and 22 authorized users.
+Business accounts can now accommodate up to 23 cards at the time of application, which includes up to 5 Guarantor and 18 employee cards. After the account is established, you can add 2 additional cards, with a restriction that the 25 include 1 primary and 1 joint cardholder.
+Can I activate cards for authorized users or employee cards online?
+No, please call 1-877-699-6980 to activate authorized user or employee cards.
+How do I update contact information for authorized users/employee cards or delete authorized users/employee cards?
+Personal cardholders: Call 1-888-SYNOVUS (796-6887) and say “Personal Credit Card” to speak to a Customer Service representative.
+Business cardholders: Call 1-888-SYNOVUS (796-6887) and say “Small Business Credit Card” to speak to a Customer Service representative.
+Can I manage spend limits of my authorized users or employee cards?
+Yes, on the Account Summary page Personal Cardholders will select “Manage Authorize Users” button and Business Cardholders will select “Manage Employee Cards”. Then select the authorized user or employee card you would like to change the spend limits for and select the blue pencil icon to edit the Spend and Cash Limits for your authorized user or employee cards.
+Why does the authorized user/employee card(s) show the Current Balance as the account balance?
+This is how the system is designed, however when the spend limit is maintained, the current balance will no longer show the account balance, but rather the specific card balance.
+Where do I send Payments by Mail?
+Please send payments to: Synovus Card Services, P.O. Box 2181, Columbus, GA 31902-2181. 
+Alert Notifications for Personal and Business Cardholders
+Can I set up account alerts for my credit card account?
+Yes, you can set up convenience account alerts that allow you to be notified about the status of your account. You can receive reminders about balance levels, payment due dates and more. Simply select “Manage Alerts” from the I want to drop down and turn on the alerts you want to receive. You can add, update or change this information at any time by returning to this page.
+How can I set up alerts for specific transactions?
+You can enroll in Visa Transaction Alerts for specific transactions online. Enrolling in Visa Transaction Alerts will allow you to set up alerts for specific transactions.
+What are Synovus Fraud Alerts?
+These are alerts sent to Visa credit card customers when questionable activity is noticed on the account. For example, if transactions suddenly happen in cities outside your normal footprint, or outside the U.S., or are for larger than normal amounts.
+How do I find out more about Synovus Fraud Alerts?
+Synovus Fraud Alerts is provided through a different service. Visit synovus.com/fraudfaqs for more information on Synovus Fraud Alerts.
+Security for Personal and Business Cardholders
+How do you ensure the security of my account information online?
+One of our highest priorities is to help ensure you privacy and peace of mind by employing some of the most advanced online security in the industry. Every step of the way, we provide you with the state-of-the-art encryption of all data transmitted between your computer and our secure site.
+After successfully validating your identity during enrollment, you will be able to create a self-selected Username and Password that will be required to access your account online. For added security, your online session will automatically timeout and log you out after fifteen minutes of inactivity. This ensures that no one can manipulate your online account if you leave your computer logged on. To re-access your account simply return to the “Sign In” page and sign in again.
+What is multifactor authentication?
+Multifactor authentication is the use of additional layers of security to verify your identity beyond your username and password.
+Learn more about how we protect you and you can protect yourself online at www.synovus.com/contact-us/safety-and-security.
+What are the software requirements for accessing the site?
+Supported web browsers include: Google Chrome, Internet Explorer, Microsoft Edge, Mozilla Firefox, and Safari. We support the current and two previous versions of these browsers.
+What is encryption and why do I need it?
+Encryption is a security device that keeps information that passes through the Internet private and secure. To maximize protection, your browser must support 256-bit encryption. This 256-bit encryption level is more secure than the standard level of 128-bit. With most browsers, an icon of a key or a lock appears in the bottom toolbar of your screen indicating that you are in an encrypted or secure session and that the information being transmitted is protected and encrypted. To upgrade, please click on one of the following links:
+•	Internet Explorer
+•	Safari
+•	Firefox
+•	Chrome
+What happens if I forget to sign off?
+For security reasons, your online session will automatically timeout and log you out after fifteen minutes of inactivity. This ensures that no one can manipulate your online accounts if you leave your computer when still logged on. To re-access your account, simply return to the "Sign In" page and sign in again. We encourage you to use the "Sign Off" function for maximum security when you are finished with the system or you walk away from your computer.
+Statements for Personal and Business Cardholders
+How do I request a copy of my statement?
+You can view and download a copy of your statement online by selecting “View Statements” from the I want to drop down list. You can also call 1-888-SYNOVUS (796-6887) to request a copy to be mailed to you.
+Rewards Information for Personal and Business Cardholders
+What kind of rewards can I earn with my Synovus Rewards Visa Credit Card?
+There are many exciting rewards from which to choose. With your Synovus Rewards Visa® Credit Card, you can redeem points for gift cards to restaurants and retailers; merchandise; and travel rewards, such as airline tickets, hotel stays and car rentals. You can also redeem for cash back which can be applied as a statement credit or as a direct deposit into your Synovus personal checking or savings account.
+(Note: Statement credits post to the card account from which the points are redeemed. The statement credit applies toward the balance and does not replace the monthly payment. Therefore, it does not dismiss the payment due for the billing cycle.)
+What kind of rewards can I earn with my Synovus Business Rewards Visa Credit Card?
+There are many exciting rewards from which to choose. With your Synovus Business Rewards Visa® Credit Card, you can redeem points for gift cards to restaurants and retailers; merchandise; and travel rewards, such as airline tickets, hotel stays and car rentals. You can also redeem for cash back which will be applied as a statement credit.
+(Note: Statement credits post to the card account from which the points are redeemed. The statement credit applies toward the balance and does not replace the monthly payment. Therefore, it does not dismiss the payment due for the billing cycle.)
+What kind of rewards can I earn with my Synovus Travel Rewards Visa Credit Card?
+Synovus Travel Rewards Visa Credit Cards have access to an even wider variety of travel rewards and exclusive items. You can choose from gift cards to retailers and restaurants; premium brand-name merchandise; and vacation packages or cruises. Plus, you have exclusive access to the Tours and Attractions options. You can also redeem for cash back which can be applied as a statement credit or as a direct deposit into your Synovus personal checking or savings account. Travel Rewards is the only rewards program available to Visa® Corporate credit card members.
+(Note: Statement credits post to the card account from which the points are redeemed. The statement credit applies toward the balance and does not replace the monthly payment. Therefore, it does not dismiss the payment due for the billing cycle.)
+What kind of rewards can I earn with my Synovus Business Travel Rewards Visa Credit Card?
+Synovus Travel Rewards Visa Credit Cards have access to an even wider variety of travel rewards and exclusive items. You can choose from gift cards to retailers and restaurants; premium brand-name merchandise; and vacation packages or cruises. Plus, you have exclusive access to the Tours and Attractions options. You can also redeem for cash back which can be applied as a statement credit. Travel Rewards is the only rewards program available to Visa® Corporate credit card members.
+(Note: Statement credits post to the card account from which the points are redeemed. The statement credit applies toward the balance and does not replace the monthly payment. Therefore, it does not dismiss the payment due for the billing cycle.)
+Where do I go to manage my rewards online?
+When you log in to manage your cards, your rewards information is summarized on the Accounts Summary page. Click on the arrow in the blue Rewards Balance box to redeem rewards or select your dynamic earn categories. Your rewards information will open in a new window. Please turn off any pop-up blockers your browser may have to ensure you have no problems opening this page. Personal cardholders will experience the same ﬂow while using the My Synovus app to access rewards.
+What are earned rewards?
+Posted purchase between statement cycles are Earned points/rewards.  These are not available to redeem until after your next statement cycle. 
+For example, my statement period is from Feb 5 to March 4.  All qualified purchases made during this period earn me rewards.  However, rewards earned during this period will not be available to redeem until March 5, when my next statement period begins.
+What are available rewards?
+Points/rewards that are earned become available to redeem after your next statement cycle.
+Do you ever change the rewards?
+Yes, we constantly look for new and exciting rewards options for our members. The most up-to-date reward catalogs can be found online.  From time to time, you will also find featured and special rewards on the website that are available for a limited time.
+How do I earn rewards with my Synovus Rewards Visa Credit Card?
+Points are awarded when you use your participating Synovus Rewards Visa Credit Card(s) for a qualifying purchase. You will earn:
+•	3X points on qualifying purchases in a category of your choice with our Dynamic Earn feature - up to $3,000 in net quarterly spend (purchases less returns).
+•	1X point for every $1.00 in net spend (purchases less returns) using a participating rewards card, with no cap.
+How do I earn rewards with my Synovus Travel Rewards Visa Credit Card?
+Points are awarded when you use your participating Synovus Travel Rewards Visa Credit Card(s) for a qualifying purchase. You will earn:
+•	5X points on travel related purchases; up to $5,000 in annual net spend (purchases minus returns)
+•	3X points on purchases in a category of your choice with our Dynamic Earn feature – up to $3,000 in net quarterly spend (purchases less returns).
+•	1X point for every $1.00 in net spend (purchases less returns) using a participating rewards card, with no cap.
+How do I earn rewards with my Synovus Cash Rewards Visa Credit Card?
+Cash rewards are earned when you use your Synovus Cash Rewards Visa Credit Card for a
+qualifying purchase. You will earn:
+•	3X rewards on dining purchases,
+•	3X rewards on purchases in a category of your choice with our Dynamic Earn feature – up to $3,000 in net spend (purchases less returns) on a quarterly basis
+•	1X reward for every $1.00 in net spend (purchases less returns) using a participating rewards card, with no cap.
+Are there any types of card transactions excluded from earning rewards?
+Yes, the following card transactions are excluded from earning rewards on any card: cash advances, balance transfers, cash advances designated as purchases, wire transfers, casino gambling chips, off-track wagers or lottery ticket transactions. It also does not include any fees posted to the credit card account, including late fees, over the limit fees, annual fees and finance charges.
+Is there an annual fee?
+Annual fees are applicable only to the following cards:
+•	Synovus Travel Rewards Visa Credit Card - $0 Introductory Annual Fee for one year; $50 Annual Fee afterward.
+•	Synovus Business Travel Rewards Visa Credit Card - $0 Introductory Annual Fee for one year; $50 Annual Fee afterward.
+How can I redeem my rewards?
+You can redeem online 24/7; or by calling the Redemption Center at 1-888-608-8683. Redemption Center hours are 9 a.m. to 9 p.m. (Eastern Time) Monday through Friday and 9 a.m. to 8 p.m. (Eastern Time) Saturday and Sunday. The Redemption Center may be closed on holidays, including New Year’s Day, Memorial Day, Independence Day (July 4th), Labor Day, Thanksgiving Day and Christmas Day.
+Can I transfer or gift rewards to other accounts or rewards members?
+Yes, you can gift rewards to any other rewards member without a fee. You can also transfer rewards if you want to combine rewards across multiple cards to redeem. For example, if you have a Cash Rewards card and a Travel Rewards Card, each card earns rewards. You can transfer the rewards to a single card to use your entire balance for redemption.
+How do I transfer rewards to other accounts?
+From the Account Summary Page, click on the arrow icon in the Rewards Summary blue box. This will bring you to the rewards website (you will not need to log in again). Select “Transfer Rewards”. Enter the email of the account you would like to transfer rewards to and select the amount of rewards you would like to transfer. Rewards will be immediately transferred to the other account. Any rewards transferred will maintain their value and there is no fee for transferring rewards.
+Where can I check my rewards balance?
+Personal Cardholders: View your rewards balance in two places:
+1.	Through My Synovus. Note there may be lags in updates to that balance, especially after redemptions.
+2.	On your Account Summary page on the blue Rewards Available box.
+Business Cardholders: View your rewards on the Account Summary page on the blue Rewards Available box.
+Are there any restrictions when booking an airline ticket?
+Generally, there are no restrictions but there may be limited restrictions in some cases. Please refer to the appropriate Rules & Conditions for further details. The Rewards Specialists in the Redemption Center (1-888-608-8683) can assist you with information about airline availability. 
+If I close my card account, can I still redeem my rewards?
+No. When you close your card any unredeemed rewards that remain are forfeited immediately.
+Do rewards ever expire?
+No, rewards will no longer expire effective April 2020.
+What is Pay Me Back?
+Buy whatever you want, where you want, and when you want.  Later, when your purchase post the transaction posts simply login select the transaction and redeem your earned rewards/points for a statement credit for that specific item.  The best part is you earn rewards/points by using your Synovus Rewards.  You will need enough rewards to redeem for the item you select for Pay Me Back.
+What is an "Authorized Redeemer?"
+An “Authorized Redeemer” is a person who is not an account owner or guarantor, but who has been authorized by the principal account owner(s) to redeem points on their behalf. The principal owner(s) can choose to designate one (1) or more Authorized Redeemers; and can add or delete Authorized Redeemers at any time.  You can add or delete an Authorized Redeemer online under the rewards User Profile.
+Who manages the rewards program?
+TSYS Loyalty administers the rewards program. TSYS Loyalty keeps a running rewards balance for each member and manages redemption of rewards. TSYS Loyalty has responsibility to resolve all questions regarding point accumulation and redemption.
+Who can I contact if I have further questions about the rewards program?
+For questions about rewards or redemption (i.e., requesting travel accommodations, car rentals, hotel stays, gift cards for restaurants and retailers and cash back), you can contact the Redemption Center at 1-888-608-8683 during normal business hours.
+Where can I access the most current rules for my rewards program?
+Rules for Cash Rewards
+Program Rules for Rewards and Travel Rewards
+FICO Score Information for Personal Cardholders
+How do I receive a monthly FICO® Score3 on my statement?
+The primary cardholder on a personal credit card account must make the request for the FICO® Score to be displayed on the statement. The FICO® Score is for the primary cardholder on your account. To opt in, call 1-888-SYNOVUS (796-6887) and say “Personal Credit Card” to speak with a Customer Service representative. You can also opt in by sending a secure message online.
+How do I stop receiving a monthly FICO® Score on my statement?
+The primary cardholder must make the request for the FICO® Score to not be displayed on the statement. The FICO® Score is for the primary cardholder on your account. To opt out, call 1-888-SYNOVUS (796-6887) and say “Personal Credit Card” to speak with a Customer Service representative.
+What are FICO® Scores?
+FICO® Scores are the most widely-used scores. Each FICO® Score is a three-digit number calculated from the data on your credit reports at the three major consumer reporting agencies—Experian, TransUnion, and Equifax. Your FICO® Scores predict how likely you are to pay back a credit obligation as agreed. Lenders use FICO® Scores to help them quickly, consistently and objectively evaluate potential borrowers’ credit risk.
+Where can I learn more about my FICO® Score?
+Visit synovus.com/FICOscore.
+Visa Account Updater for Personal and Business Cardholders
+When my credit card is reissued, do I need to contact each of my merchant that I have recurring payments set-up with to provide the new expiration date?
+Synovus utilizes a service from Visa called Visa Account Updater (VAU). If your merchant also utilizes VAU, then we will we will take care of that for you.
+What is Visa Account Updater?
+Authorized merchants who are enrolled with Visa for the Visa Account Updater (VAU) service receive updates on their customer's card account information originally used to set up recurring payments with the merchant changes. These updates are made when your card is lost/stolen and a new card number is issued, or when it is reissued and the expiration changes.  We will send an update to Visa with the new information and the merchant receives the updated information to prevent your services (cable, utilities, etc.) from being disrupted.
+Why does Synovus provide my information to Visa for Visa Account Updater?
+Synovus enrolled in the service with Visa to provide a better customer experience for those who use their credit card accounts for recurring payments with authorized vendors/merchants enrolled in the service with Visa. Without this service, you would have to contact the merchant/vendor to update your expiration date to avoid a disruption in service.
+Do I have to use the Visa Account Updater Service or can I opt out?
+You will need to call the merchant to stop/cancel the recurring payment originally set up with that merchant.
+General Information
+What are your Customer Service hours?
+Representatives are available from 7:00 am - 11:00 pm Eastern Time, 7 days a week, to assist you. Simply call 1-888-SYNOVUS (1-888-796-6887) and say “Credit Card”.
+For issues that do not require immediate assistance, you may send a secure message via the online account management system. You can also reach us by email at support@synovus.com. However, if contacting us via email, please do not include any sensitive information such as card number, social security number, etc. in the correspondence. We will respond to your inquiry within 3 to 5 business days.
+
