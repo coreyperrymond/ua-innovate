@@ -15,7 +15,15 @@ Dataset:
     - Question
     - Answer
   
-Link to dataset will be provided and based on data pulled from https://www.synovus.com
+Link to dataset is below which was pulled from **https://www.synovus.com**.
+
+[General FAQ Text](https://github.com/coreyperrymond/ua-innovate/blob/main/Synovus%20general%20FAQs.txt)
+
+[General FAQ Word](https://github.com/coreyperrymond/ua-innovate/blob/main/Synovus%20general%20FAQs.docx)
+
+[Cardholder FAQ Text](https://github.com/coreyperrymond/ua-innovate/blob/main/Cardholder_FAQs.txt)
+
+[Cardholder FAQ Word](https://github.com/coreyperrymond/ua-innovate/blob/main/Cardholder_FAQs.docx)
 
 
 ## Suggested Languages/ Frameworks/Tools
