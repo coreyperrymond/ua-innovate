@@ -5,7 +5,7 @@
 This prompt is targeted towards technical and analytical students. 
 Chatbots have become quite popular in recent years. They are bots that interact with users through a text or text-to-speech conversation. Chatbots enhance the user experience by answering the user’s questions as a human would. This interaction has become increasingly intelligent and can blend analytics, APIs, and AI. 
 
-**As a developer** create a chatbot and UI that takes input and provides a response to customer inquiry’s such as account # and balances. Utilize the FAQ data provided below to answer common customer questions. The UI design should be aesthetically pleasing, responsive and use colors like Synovus.com. 
+**As a developer** create a chatbot and UI that takes input and provides a relevant response to customer inquiry’s based on banking FAQ data. Utilize the FAQ data provided below to answer common customer questions. The UI design should be aesthetically pleasing, responsive and utilize colors like Synovus.com. 
 
 **As a data analyst** perform analysis on dataset to factor into customer interactions based on customer input and provided dataset.  
  
