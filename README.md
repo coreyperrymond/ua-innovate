@@ -65,15 +65,16 @@ Required:
 Present in person: 
 
 PowerPoint/Equivalent presentation: 
+- Team 
 - Project Charter – Problem Statement, Purpose, Team, High Level requirements
 - Architecture - Design approach and technologies / libraries used (and justification on why this approach was used).
-•	Demo of solution 
+- Demo of solution 
 
 ## Evaluation 
 
-	The final judging will be assessed based on the following criteria:
-	1.	Creativity of use case and tech stack used – 15%
-	2.	Function of chatbot (does it receive messages a user has sent to it and respond accordingly?) – 60%
-	3.	Visual presentation of chatbot (interface(s) & final presentation aesthetics – 25%
-	4.	Stretch/bonus: demonstrate > 10 use cases, incorporating Synovus dataset or live API (inquiry & response) – 15%
+The final judging will be assessed based on the following criteria:
+1.	Creativity of use case and tech stack used – 15%
+2.	Function of chatbot (does it receive messages a user has sent to it and respond accordingly?) – 60%
+3.	Visual presentation of chatbot (interface(s) & final presentation aesthetics – 25%
+4.	Stretch/bonus: demonstrate > 10 use cases, incorporating Synovus dataset or live API (inquiry & response) – 15%
 
